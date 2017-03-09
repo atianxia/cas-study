@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+  <component name="CopyrightManager" default="">
+    <module2copyright />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-mgmt/cas-management-webapp/cas-management-webapp.iml" filepath="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp/cas-management-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support/cas-management-webapp-support.iml" filepath="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support/cas-management-webapp-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support-ldap/cas-management-webapp-support-ldap.iml" filepath="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support-ldap/cas-management-webapp-support-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server.iml" filepath="$PROJECT_DIR$/cas-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core/cas-server-core.iml" filepath="$PROJECT_DIR$/core/cas-server-core/cas-server-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api/cas-server-core-api.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api/cas-server-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-authentication/cas-server-core-api-authentication.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-authentication/cas-server-core-api-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-events/cas-server-core-api-events.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-events/cas-server-core-api-events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-logout/cas-server-core-api-logout.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-logout/cas-server-core-api-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-monitor/cas-server-core-api-monitor.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-monitor/cas-server-core-api-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-protocol/cas-server-core-api-protocol.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-protocol/cas-server-core-api-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-services/cas-server-core-api-services.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-services/cas-server-core-api-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-ticket/cas-server-core-api-ticket.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-ticket/cas-server-core-api-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-util/cas-server-core-api-util.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-util/cas-server-core-api-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-validation/cas-server-core-api-validation.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-validation/cas-server-core-api-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-web/cas-server-core-api-web.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-web/cas-server-core-api-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cas-server-core-api-webflow/cas-server-core-api-webflow.iml" filepath="$PROJECT_DIR$/api/cas-server-core-api-webflow/cas-server-core-api-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-audit/cas-server-core-audit.iml" filepath="$PROJECT_DIR$/core/cas-server-core-audit/cas-server-core-audit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-authentication/cas-server-core-authentication.iml" filepath="$PROJECT_DIR$/core/cas-server-core-authentication/cas-server-core-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-configuration/cas-server-core-configuration.iml" filepath="$PROJECT_DIR$/core/cas-server-core-configuration/cas-server-core-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-configuration-cloud-amqp/cas-server-core-configuration-cloud-amqp.iml" filepath="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-amqp/cas-server-core-configuration-cloud-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-configuration-cloud-kafka/cas-server-core-configuration-cloud-kafka.iml" filepath="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-kafka/cas-server-core-configuration-cloud-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-configuration-cloud-mongo/cas-server-core-configuration-cloud-mongo.iml" filepath="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-mongo/cas-server-core-configuration-cloud-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-configuration-cloud-vault/cas-server-core-configuration-cloud-vault.iml" filepath="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-vault/cas-server-core-configuration-cloud-vault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-events/cas-server-core-events.iml" filepath="$PROJECT_DIR$/core/cas-server-core-events/cas-server-core-events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-logging/cas-server-core-logging.iml" filepath="$PROJECT_DIR$/core/cas-server-core-logging/cas-server-core-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-logout/cas-server-core-logout.iml" filepath="$PROJECT_DIR$/core/cas-server-core-logout/cas-server-core-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-monitor/cas-server-core-monitor.iml" filepath="$PROJECT_DIR$/core/cas-server-core-monitor/cas-server-core-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-services/cas-server-core-services.iml" filepath="$PROJECT_DIR$/core/cas-server-core-services/cas-server-core-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-tickets/cas-server-core-tickets.iml" filepath="$PROJECT_DIR$/core/cas-server-core-tickets/cas-server-core-tickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-util/cas-server-core-util.iml" filepath="$PROJECT_DIR$/core/cas-server-core-util/cas-server-core-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-validation/cas-server-core-validation.iml" filepath="$PROJECT_DIR$/core/cas-server-core-validation/cas-server-core-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-web/cas-server-core-web.iml" filepath="$PROJECT_DIR$/core/cas-server-core-web/cas-server-core-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/cas-server-core-webflow/cas-server-core-webflow.iml" filepath="$PROJECT_DIR$/core/cas-server-core-webflow/cas-server-core-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs/cas-server-documentation/cas-server-documentation.iml" filepath="$PROJECT_DIR$/docs/cas-server-documentation/cas-server-documentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-actions/cas-server-support-actions.iml" filepath="$PROJECT_DIR$/support/cas-server-support-actions/cas-server-support-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-actions-aup-ldap/cas-server-support-actions-aup-ldap.iml" filepath="$PROJECT_DIR$/support/cas-server-support-actions-aup-ldap/cas-server-support-actions-aup-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-actions-aup-webflow/cas-server-support-actions-aup-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-actions-aup-webflow/cas-server-support-actions-aup-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-audit-jdbc/cas-server-support-audit-jdbc.iml" filepath="$PROJECT_DIR$/support/cas-server-support-audit-jdbc/cas-server-support-audit-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-authy/cas-server-support-authy.iml" filepath="$PROJECT_DIR$/support/cas-server-support-authy/cas-server-support-authy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-basic/cas-server-support-basic.iml" filepath="$PROJECT_DIR$/support/cas-server-support-basic/cas-server-support-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-bom/cas-server-support-bom.iml" filepath="$PROJECT_DIR$/support/cas-server-support-bom/cas-server-support-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-captcha/cas-server-support-captcha.iml" filepath="$PROJECT_DIR$/support/cas-server-support-captcha/cas-server-support-captcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-cookie/cas-server-support-cookie.iml" filepath="$PROJECT_DIR$/support/cas-server-support-cookie/cas-server-support-cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-couchbase-core/cas-server-support-couchbase-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-couchbase-core/cas-server-support-couchbase-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-couchbase-service-registry/cas-server-support-couchbase-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-couchbase-service-registry/cas-server-support-couchbase-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-couchbase-ticket-registry/cas-server-support-couchbase-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-couchbase-ticket-registry/cas-server-support-couchbase-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-digest-authentication/cas-server-support-digest-authentication.iml" filepath="$PROJECT_DIR$/support/cas-server-support-digest-authentication/cas-server-support-digest-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-duo/cas-server-support-duo.iml" filepath="$PROJECT_DIR$/support/cas-server-support-duo/cas-server-support-duo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ehcache-monitor/cas-server-support-ehcache-monitor.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ehcache-monitor/cas-server-support-ehcache-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ehcache-ticket-registry/cas-server-support-ehcache-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ehcache-ticket-registry/cas-server-support-ehcache-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-events-jpa/cas-server-support-events-jpa.iml" filepath="$PROJECT_DIR$/support/cas-server-support-events-jpa/cas-server-support-events-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-events-mongo/cas-server-support-events-mongo.iml" filepath="$PROJECT_DIR$/support/cas-server-support-events-mongo/cas-server-support-events-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-gauth/cas-server-support-gauth.iml" filepath="$PROJECT_DIR$/support/cas-server-support-gauth/cas-server-support-gauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-gauth-jpa/cas-server-support-gauth-jpa.iml" filepath="$PROJECT_DIR$/support/cas-server-support-gauth-jpa/cas-server-support-gauth-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-gauth-mongo/cas-server-support-gauth-mongo.iml" filepath="$PROJECT_DIR$/support/cas-server-support-gauth-mongo/cas-server-support-gauth-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-generic/cas-server-support-generic.iml" filepath="$PROJECT_DIR$/support/cas-server-support-generic/cas-server-support-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-generic-remote-webflow/cas-server-support-generic-remote-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-generic-remote-webflow/cas-server-support-generic-remote-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-geolocation/cas-server-support-geolocation.iml" filepath="$PROJECT_DIR$/support/cas-server-support-geolocation/cas-server-support-geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-geolocation-googlemaps/cas-server-support-geolocation-googlemaps.iml" filepath="$PROJECT_DIR$/support/cas-server-support-geolocation-googlemaps/cas-server-support-geolocation-googlemaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-geolocation-maxmind/cas-server-support-geolocation-maxmind.iml" filepath="$PROJECT_DIR$/support/cas-server-support-geolocation-maxmind/cas-server-support-geolocation-maxmind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-grouper/cas-server-support-grouper.iml" filepath="$PROJECT_DIR$/support/cas-server-support-grouper/cas-server-support-grouper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-hazelcast-monitor/cas-server-support-hazelcast-monitor.iml" filepath="$PROJECT_DIR$/support/cas-server-support-hazelcast-monitor/cas-server-support-hazelcast-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-hazelcast-ticket-registry/cas-server-support-hazelcast-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-hazelcast-ticket-registry/cas-server-support-hazelcast-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ignite-ticket-registry/cas-server-support-ignite-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ignite-ticket-registry/cas-server-support-ignite-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-infinispan-ticket-registry/cas-server-support-infinispan-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-infinispan-ticket-registry/cas-server-support-infinispan-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jdbc/cas-server-support-jdbc.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jdbc/cas-server-support-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jdbc-drivers/cas-server-support-jdbc-drivers.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jdbc-drivers/cas-server-support-jdbc-drivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jdbc-monitor/cas-server-support-jdbc-monitor.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jdbc-monitor/cas-server-support-jdbc-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jpa-service-registry/cas-server-support-jpa-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jpa-service-registry/cas-server-support-jpa-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jpa-ticket-registry/cas-server-support-jpa-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jpa-ticket-registry/cas-server-support-jpa-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-jpa-util/cas-server-support-jpa-util.iml" filepath="$PROJECT_DIR$/support/cas-server-support-jpa-util/cas-server-support-jpa-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-json-service-registry/cas-server-support-json-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-json-service-registry/cas-server-support-json-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ldap/cas-server-support-ldap.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ldap/cas-server-support-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ldap-core/cas-server-support-ldap-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ldap-core/cas-server-support-ldap-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ldap-monitor/cas-server-support-ldap-monitor.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ldap-monitor/cas-server-support-ldap-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-ldap-service-registry/cas-server-support-ldap-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-ldap-service-registry/cas-server-support-ldap-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-memcached-monitor/cas-server-support-memcached-monitor.iml" filepath="$PROJECT_DIR$/support/cas-server-support-memcached-monitor/cas-server-support-memcached-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-memcached-ticket-registry/cas-server-support-memcached-ticket-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-memcached-ticket-registry/cas-server-support-memcached-ticket-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-mongo/cas-server-support-mongo.iml" filepath="$PROJECT_DIR$/support/cas-server-support-mongo/cas-server-support-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-mongo-service-registry/cas-server-support-mongo-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-mongo-service-registry/cas-server-support-mongo-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-oauth/cas-server-support-oauth.iml" filepath="$PROJECT_DIR$/support/cas-server-support-oauth/cas-server-support-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-oauth-core/cas-server-support-oauth-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-oauth-core/cas-server-support-oauth-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-oauth-webflow/cas-server-support-oauth-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-oauth-webflow/cas-server-support-oauth-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-oidc/cas-server-support-oidc.iml" filepath="$PROJECT_DIR$/support/cas-server-support-oidc/cas-server-support-oidc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-oidc-core/cas-server-support-oidc-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-oidc-core/cas-server-support-oidc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-openid/cas-server-support-openid.iml" filepath="$PROJECT_DIR$/support/cas-server-support-openid/cas-server-support-openid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-openid-webflow/cas-server-support-openid-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-openid-webflow/cas-server-support-openid-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-pac4j/cas-server-support-pac4j.iml" filepath="$PROJECT_DIR$/support/cas-server-support-pac4j/cas-server-support-pac4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-pac4j-authentication/cas-server-support-pac4j-authentication.iml" filepath="$PROJECT_DIR$/support/cas-server-support-pac4j-authentication/cas-server-support-pac4j-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-pac4j-core/cas-server-support-pac4j-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-pac4j-core/cas-server-support-pac4j-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-pac4j-webflow/cas-server-support-pac4j-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-pac4j-webflow/cas-server-support-pac4j-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-pm/cas-server-support-pm.iml" filepath="$PROJECT_DIR$/support/cas-server-support-pm/cas-server-support-pm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-radius/cas-server-support-radius.iml" filepath="$PROJECT_DIR$/support/cas-server-support-radius/cas-server-support-radius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-radius-core/cas-server-support-radius-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-radius-core/cas-server-support-radius-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-radius-mfa/cas-server-support-radius-mfa.iml" filepath="$PROJECT_DIR$/support/cas-server-support-radius-mfa/cas-server-support-radius-mfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-reports/cas-server-support-reports.iml" filepath="$PROJECT_DIR$/support/cas-server-support-reports/cas-server-support-reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-rest/cas-server-support-rest.iml" filepath="$PROJECT_DIR$/support/cas-server-support-rest/cas-server-support-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-rest-authentication/cas-server-support-rest-authentication.iml" filepath="$PROJECT_DIR$/support/cas-server-support-rest-authentication/cas-server-support-rest-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-rest-services/cas-server-support-rest-services.iml" filepath="$PROJECT_DIR$/support/cas-server-support-rest-services/cas-server-support-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml/cas-server-support-saml.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml/cas-server-support-saml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-core/cas-server-support-saml-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-core/cas-server-support-saml-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-googleapps/cas-server-support-saml-googleapps.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-googleapps/cas-server-support-saml-googleapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-idp/cas-server-support-saml-idp.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-idp/cas-server-support-saml-idp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-idp-core/cas-server-support-saml-idp-core.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-idp-core/cas-server-support-saml-idp-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-mdui/cas-server-support-saml-mdui.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-mdui/cas-server-support-saml-mdui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-saml-sp-integrations/cas-server-support-saml-sp-integrations.iml" filepath="$PROJECT_DIR$/support/cas-server-support-saml-sp-integrations/cas-server-support-saml-sp-integrations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-shell/cas-server-support-shell.iml" filepath="$PROJECT_DIR$/support/cas-server-support-shell/cas-server-support-shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-shibboleth-attributes/cas-server-support-shibboleth-attributes.iml" filepath="$PROJECT_DIR$/support/cas-server-support-shibboleth-attributes/cas-server-support-shibboleth-attributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-spnego/cas-server-support-spnego.iml" filepath="$PROJECT_DIR$/support/cas-server-support-spnego/cas-server-support-spnego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-spnego-webflow/cas-server-support-spnego-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-spnego-webflow/cas-server-support-spnego-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-stormpath/cas-server-support-stormpath.iml" filepath="$PROJECT_DIR$/support/cas-server-support-stormpath/cas-server-support-stormpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-themes/cas-server-support-themes.iml" filepath="$PROJECT_DIR$/support/cas-server-support-themes/cas-server-support-themes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-throttle/cas-server-support-throttle.iml" filepath="$PROJECT_DIR$/support/cas-server-support-throttle/cas-server-support-throttle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-throttle-jdbc/cas-server-support-throttle-jdbc.iml" filepath="$PROJECT_DIR$/support/cas-server-support-throttle-jdbc/cas-server-support-throttle-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-token/cas-server-support-token.iml" filepath="$PROJECT_DIR$/support/cas-server-support-token/cas-server-support-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-token-webflow/cas-server-support-token-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-token-webflow/cas-server-support-token-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted/cas-server-support-trusted.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted/cas-server-support-trusted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted-mfa/cas-server-support-trusted-mfa.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted-mfa/cas-server-support-trusted-mfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted-mfa-jdbc/cas-server-support-trusted-mfa-jdbc.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-jdbc/cas-server-support-trusted-mfa-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted-mfa-mongo/cas-server-support-trusted-mfa-mongo.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-mongo/cas-server-support-trusted-mfa-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted-mfa-rest/cas-server-support-trusted-mfa-rest.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-rest/cas-server-support-trusted-mfa-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-trusted-webflow/cas-server-support-trusted-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-trusted-webflow/cas-server-support-trusted-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-validation/cas-server-support-validation.iml" filepath="$PROJECT_DIR$/support/cas-server-support-validation/cas-server-support-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-wsfederation/cas-server-support-wsfederation.iml" filepath="$PROJECT_DIR$/support/cas-server-support-wsfederation/cas-server-support-wsfederation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-wsfederation-webflow/cas-server-support-wsfederation-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-wsfederation-webflow/cas-server-support-wsfederation-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-x509/cas-server-support-x509.iml" filepath="$PROJECT_DIR$/support/cas-server-support-x509/cas-server-support-x509.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-x509-webflow/cas-server-support-x509-webflow.iml" filepath="$PROJECT_DIR$/support/cas-server-support-x509-webflow/cas-server-support-x509-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-yaml-service-registry/cas-server-support-yaml-service-registry.iml" filepath="$PROJECT_DIR$/support/cas-server-support-yaml-service-registry/cas-server-support-yaml-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas-server-support-yubikey/cas-server-support-yubikey.iml" filepath="$PROJECT_DIR$/support/cas-server-support-yubikey/cas-server-support-yubikey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp/cas-server-webapp.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp/cas-server-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp-config/cas-server-webapp-config.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp-config/cas-server-webapp-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp-init/cas-server-webapp-init.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp-init/cas-server-webapp-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp-session-hazelcast/cas-server-webapp-session-hazelcast.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp-session-hazelcast/cas-server-webapp-session-hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp-session-mongo/cas-server-webapp-session-mongo.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp-session-mongo/cas-server-webapp-session-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/cas-server-webapp-session-redis/cas-server-webapp-session-redis.iml" filepath="$PROJECT_DIR$/webapp/cas-server-webapp-session-redis/cas-server-webapp-session-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cas-study.iml" filepath="$PROJECT_DIR$/.idea/modules/cas-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs/docs.iml" filepath="$PROJECT_DIR$/docs/docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/support.iml" filepath="$PROJECT_DIR$/support/support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-mgmt/webapp-mgmt.iml" filepath="$PROJECT_DIR$/webapp-mgmt/webapp-mgmt.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>

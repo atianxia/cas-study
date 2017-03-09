@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df97af5-1d01-4502-8ed8-bd38622beb5a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/api/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/build/" />
+    <ignored path="$PROJECT_DIR$/core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/build/" />
+    <ignored path="$PROJECT_DIR$/docs/.gradle/" />
+    <ignored path="$PROJECT_DIR$/docs/build/" />
+    <ignored path="$PROJECT_DIR$/support/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/build/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-authentication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-authentication/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-events/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-events/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-logout/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-logout/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-protocol/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-protocol/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-services/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-services/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-ticket/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-ticket/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-util/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-validation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-validation/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-web/build/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api/cas-server-core-api-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-audit/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-audit/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-authentication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-authentication/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-amqp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-amqp/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-kafka/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-kafka/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-vault/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-configuration-cloud-vault/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-events/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-events/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-logging/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-logging/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-logout/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-logout/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-services/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-services/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-tickets/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-tickets/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-util/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-validation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-validation/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-web/build/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/cas-server-core-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/docs/cas-server-documentation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/docs/cas-server-documentation/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions-aup-ldap/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions-aup-ldap/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions-aup-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-actions-aup-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-audit-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-audit-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-authy/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-authy/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-basic/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-basic/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-bom/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-bom/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-captcha/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-captcha/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-cookie/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-cookie/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-couchbase-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-digest-authentication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-digest-authentication/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-duo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-duo/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ehcache-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ehcache-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ehcache-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ehcache-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-events-jpa/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-events-jpa/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-events-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-events-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth-jpa/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth-jpa/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-gauth-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-generic/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-generic/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-generic-remote-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-generic-remote-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation-googlemaps/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation-googlemaps/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation-maxmind/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-geolocation-maxmind/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-grouper/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-grouper/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-hazelcast-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-hazelcast-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-hazelcast-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-hazelcast-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ignite-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ignite-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-infinispan-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-infinispan-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc-drivers/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc-drivers/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jdbc-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-jpa-util/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-json-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-json-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-ldap-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-memcached-monitor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-memcached-monitor/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-memcached-ticket-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-memcached-ticket-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-mongo-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-mongo-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oauth-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oidc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oidc/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oidc-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-oidc-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-openid/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-openid/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-openid-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-openid-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-authentication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-authentication/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pac4j-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pm/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-pm/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius-mfa/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-radius-mfa/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-reports/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-reports/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest-authentication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest-authentication/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest-services/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-rest-services/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-googleapps/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-googleapps/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-idp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-idp/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-idp-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-idp-core/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-mdui/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-mdui/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-sp-integrations/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-saml-sp-integrations/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-shell/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-shell/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-shibboleth-attributes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-shibboleth-attributes/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-spnego/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-spnego/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-spnego-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-spnego-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-stormpath/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-stormpath/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-themes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-themes/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-throttle/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-throttle/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-throttle-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-throttle-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-token/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-token/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-token-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-token-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-rest/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-mfa-rest/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-trusted-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-validation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-validation/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-wsfederation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-wsfederation/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-wsfederation-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-wsfederation-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-x509/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-x509/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-x509-webflow/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-x509-webflow/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-yaml-service-registry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-yaml-service-registry/build/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-yubikey/.gradle/" />
+    <ignored path="$PROJECT_DIR$/support/cas-server-support-yubikey/build/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp/build/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support/build/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support-ldap/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp-mgmt/cas-management-webapp-support-ldap/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-config/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-config/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-init/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-init/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-hazelcast/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-hazelcast/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-redis/.gradle/" />
+    <ignored path="$PROJECT_DIR$/webapp/cas-server-webapp-session-redis/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="cas-study" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cas-study" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cas-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cas-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df97af5-1d01-4502-8ed8-bd38622beb5a" name="Default" comment="" />
+      <created>1489030886301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489030886301</updated>
+      <workItem from="1489030888154" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="214000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5019369" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.4980631" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
